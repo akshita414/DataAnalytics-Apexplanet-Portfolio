@@ -1,125 +1,95 @@
- ApexPlanet Data Analytics Internship - Task 3
+# ApexPlanet Data Analytics Internship - Task 4
 
-📌 Project Overview
-This project is part of the **ApexPlanet Data Analytics Internship – Task 3**. The objective is to analyze customer behavior using Core KPIs, Cohort Analysis, Funnel Analysis, and Customer Segmentation with K-Means Clustering to generate actionable business insights.
+## Data Storytelling & Statistical Validation
 
----
-
- 🎯 Objectives
-- Define and calculate Core Business KPIs.
-- Perform Cohort Analysis to evaluate customer retention.
-- Conduct Funnel Analysis to understand customer conversion.
-- Segment customers using the K-Means Clustering algorithm.
-- Visualize results using Python charts.
+### Objective
+The objective of Task 4 is to combine the insights generated from previous tasks into a meaningful business story and validate key findings using statistical analysis. This project focuses on presenting data-driven recommendations through visualization, storytelling, and hypothesis testing.
 
 ---
 
- 🛠️ Tools & Technologies
+## Project Overview
+
+This project includes:
+
+- Data Storytelling
+- Business Insights
+- Statistical Validation
+- Hypothesis Testing
+- Final Business Presentation
+
+---
+
+## Tools & Technologies
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-learn
+- Seaborn
+- SciPy
 - Jupyter Notebook
+- Power BI
+- Git & GitHub
 
 ---
 
- 📊 Project Tasks
+## Project Workflow
 
-✅ Part 1: Core KPIs
-Calculated key business metrics including:
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Total Quantity Sold
-- Customer Lifetime Value (CLV)
-- Repeat Customer Rate
+1. Reviewed insights from Tasks 1–3.
+2. Identified key business problems.
+3. Created a business story using analytical findings.
+4. Performed hypothesis testing using statistical methods.
+5. Interpreted p-value and statistical significance.
+6. Developed actionable business recommendations.
+7. Designed the final presentation summarizing all findings.
 
 ---
 
- ✅ Part 2: Cohort Analysis
-Performed customer retention analysis by:
-- Identifying customer cohorts
-- Creating a cohort retention matrix
-- Visualizing retention using a heatmap
-- Calculating Customer Lifetime Value (CLV)
-
----
-
- ✅ Part 3: Funnel Analysis
-Analyzed customer flow through different business stages:
-- Customers
-- Orders
-- Products Sold
-- Revenue
-
-Calculated:
-- Conversion Rate
-- Revenue per Customer
-- Average Products per Order
-
----
-
- ✅ Part 4: Customer Segmentation
-Applied **K-Means Clustering** to segment customers based on:
-- Total Spend
-- Total Quantity Purchased
-- Total Orders
-
-Generated:
-- Elbow Method Plot
-- Customer Clusters
-- Scatter Plot
-- Segment Distribution
-- Business Insights
-
----
-
-📂 Repository Structure
+## Files Included
 
 ```
-ApexPlanet-DataAnalytics-Task3
-│
-├── Task3_Customer_Analytics.ipynb
-├── Cleaned_Sales_Dataset.csv
-├── Cohort_Heatmap.png
-├── Funnel_Analysis.png
-├── Customer_Segmentation.png
-└── README.md
+Dataset/
+Notebook/
+Presentation/
+Dashboard/
+README.md
 ```
 
 ---
 
- 📈 Key Insights
-- Identified customer purchasing patterns using KPIs.
-- Evaluated customer retention through Cohort Analysis.
-- Measured business conversion using Funnel Analysis.
-- Segmented customers into meaningful groups using K-Means Clustering.
-- Generated actionable insights for customer targeting and business growth.
+## Business Insights
+
+- Electronics generated the highest sales.
+- Patna recorded the highest revenue among all cities.
+- Monthly sales remained relatively stable throughout the year.
+- Customer segmentation identified different spending behaviors.
+- Funnel analysis highlighted customer drop-off points.
+- Cohort analysis provided customer retention insights.
 
 ---
 
-🚀 Future Improvements
-- Perform RFM (Recency, Frequency, Monetary) Analysis.
-- Develop an interactive Power BI dashboard.
-- Automate customer segmentation.
-- Deploy the analysis as a web application.
+## Statistical Validation
+
+- Defined Null and Alternative Hypotheses.
+- Performed statistical hypothesis testing.
+- Calculated p-value.
+- Interpreted the statistical results.
+- Validated business conclusions using data.
 
 ---
 
- 👩‍💻 Author
+## Outcome
+
+This project demonstrates the complete data analytics workflow, including exploratory analysis, SQL-based insights, interactive dashboards, customer analytics, statistical validation, and business storytelling for informed decision-making.
+
+---
+
+## Author
 
 **Roshani Singh**
 
-B.Tech in Computer Science & Engineering  
-Jaypee University of Engineering and Technology, Guna
+B.Tech – Computer Science & Engineering
 
-📧 Email: roshanirs149@gmail.com
+Jaypee University of Engineering & Technology, Guna
 
-🔗 GitHub: https://github.com/231b271roshani
-
-🔗 LinkedIn: https://www.linkedin.com/in/roshani-singh-324a35341
-
-
-
+Data Analytics Intern – ApexPlanet Software Pvt. Ltd.
