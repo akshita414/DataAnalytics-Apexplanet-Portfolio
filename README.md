@@ -1,102 +1,30 @@
-# ApexPlanet Data Analytics Internship - Task 5
-
-## Capstone Integration & Portfolio Finalization
-
-### Objective
-
-The objective of Task 5 is to consolidate all internship projects into a single professional portfolio, showcasing the complete data analytics journey, technical skills, and project outcomes.
-
----
+# ApexPlanet Data Analytics Portfolio
 
 ## Project Overview
+This repository contains a Data Analytics Portfolio project focused on exploring data, performing analysis, and presenting meaningful insights using data analytics techniques.
 
-This repository serves as the final portfolio of my Data Analytics Internship at ApexPlanet Software Pvt. Ltd. It combines all completed tasks into one place, demonstrating an end-to-end data analytics workflow from data preparation to business storytelling.
+## Objectives
+- Understand and explore datasets.
+- Perform data cleaning and preprocessing.
+- Analyze data to identify trends and patterns.
+- Generate meaningful business insights.
+- Present analytical findings in an organized format.
 
----
-
-## Internship Tasks
-
-### Task 1 – Data Cleaning & Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Missing Value Handling
-- Exploratory Data Analysis
-- Data Visualization
-
-### Task 2 – SQL Analysis & Power BI Dashboard
-- SQL Queries
-- Business KPIs
-- Interactive Power BI Dashboard
-- Sales Analysis
-
-### Task 3 – Customer Analytics
-- Cohort Analysis
-- Funnel Analysis
-- Customer Segmentation using K-Means
-- Business Insights
-
-### Task 4 – Data Storytelling & Statistical Validation
-- Data Storytelling
-- Hypothesis Testing
-- Statistical Validation
-- Business Recommendations
-
----
-
-## Tools & Technologies
-
+## Tools and Technologies
 - Python
-- Pandas
-- NumPy
 - SQL
-- SQLite
-- Power BI
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-- Git & GitHub
+- Microsoft Excel
+- Data Analysis and Visualization
 
----
+## Project Structure
+The repository contains the project files and resources related to data analytics. Refer to the files and notebooks for the implementation details.
 
-## Skills Gained
+## Learning Outcomes
+- Improved understanding of data analysis workflows.
+- Experience working with datasets.
+- Practice in extracting insights from data.
 
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Query Writing
-- Dashboard Development
-- Data Visualization
-- Customer Segmentation
-- Cohort Analysis
-- Funnel Analysis
-- Statistical Analysis
-- Business Storytelling
-- GitHub Portfolio Management
+## Credits
+This project is based on work originally published by **Roshani** in the [ApexPlanet DataAnalytics Portfolio repository](https://github.com/231b271roshani/ApexPlanet-DataAnalytics-Portfolio).
 
----
-
-## Repository Structure
-
-```
-Task1/
-Task2/
-Task3/
-Task4/
-README.md
-```
-
----
-
-## Learning Outcome
-
-This internship provided hands-on experience with real-world datasets and strengthened my skills in Python, SQL, Power BI, data visualization, statistical analysis, and business intelligence. It enhanced my ability to analyze data, generate insights, and present data-driven recommendations effectively.
-
----
-
-## Author
-
-**Roshani Singh**
-
-B.Tech – Computer Science & Engineering
-
-Jaypee University of Engineering & Technology, Guna
-
-Data Analytics Intern – ApexPlanet Software Pvt. Ltd.
+This repository is maintained for learning and portfolio purposes. Please refer to the original repository for the author's work and applicable license terms.
